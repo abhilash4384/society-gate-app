@@ -4,6 +4,7 @@ The society management app, designed for both Android and iOS platforms using re
 Below are some of the screenshot for your refrance.
 
 <div style="display:flex;">
+<img src="./docs/recording.gif" alt="s1" width="150px" style="margin:5px" />
 <img src="./docs/s1.png" alt="s1" width="150px" style="margin:5px" />
 <img src="./docs/s2.png" alt="s2" width="150px" style="margin:5px" />
 <img src="./docs/s3.png" alt="s3" width="150px" style="margin:5px" />
