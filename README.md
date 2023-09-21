@@ -15,3 +15,11 @@ Below are some of the screenshot for your refrance.
 <img src="./docs/s8.png" alt="s8" width="150px" style="margin:5px" />
 <img src="./docs/s9.png" alt="s9" width="150px" style="margin:5px" />
 </div>
+
+## Techstack:
+
+- expo
+- react
+- react-native
+- axios
+- react context for state management
